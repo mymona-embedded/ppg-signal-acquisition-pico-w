@@ -1,0 +1,6 @@
+MAX30102 pin-------Raspberry Pi Pico W
+VIN                  3V3
+GND                    GND
+SDA                   GP 20 (Physical Pin 26)
+SCL                    GP 21(Physical Pin 27)
+  INT                    Not used
